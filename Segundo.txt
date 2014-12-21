@@ -1,1 +1,0 @@
-## No sé cómo pasar ficheros al repositorio remoto
